@@ -1,4 +1,4 @@
-# Creación y Manejo de Documentos con Aplicaciones de Codigo Abierto
+# Creación y Manejo de Documentos con Software Libre
 
 ## Introduccion
     - Poner un ejemplo de una ecuacion matematica
