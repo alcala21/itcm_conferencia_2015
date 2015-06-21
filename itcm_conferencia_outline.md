@@ -1,4 +1,21 @@
-# Creación y Manejo de Documentos con Software Libre
+# Uso de Documentos Interactivos en la Enseñanza de las Ciencias
+
+- Latex
+    + Mathematical formulas 
+    + Beamer class
+    + tikz
+- Markdown
+    + Description
+- R
+    + Description
+    + History
+- Reproducible Research
+- knitr
+    + Example with Latex
+    + Example with R
+- slidify
+    + Show the example of the Map with multiple Options
+- 
 
 ## Introduccion
     - Poner un ejemplo de una ecuacion matematica
