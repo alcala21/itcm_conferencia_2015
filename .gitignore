@@ -1,0 +1,11 @@
+#File extensions
+*.log
+*.aux
+*.nav
+*.out
+*.pdf
+*.snm
+*.synctex.gz
+*.toc
+*.DS_Store
+*.fdb_latexmk

@@ -1,4 +1,7 @@
-# Uso de Documentos Interactivos en la Enseñanza de las Ciencias
+# Elaboración de Documentos con Herramientas de Software Libre.
+
+- Justificación
+    + Ejemplo de creacion de reporte en Word. Mostrar screen-shots.
 
 - Latex
     + Mathematical formulas 
@@ -9,6 +12,7 @@
 - R
     + Description
     + History
+    + Linear regression. Show example with dplyr.
 - Reproducible Research
 - knitr
     + Example with Latex
