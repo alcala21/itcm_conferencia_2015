@@ -1,0 +1,47 @@
+\newcommand{\myframe}[2]
+    {
+    \begin{frame}{#1}
+        #2
+    \end{frame}
+    }
+
+\newcommand{\myblock}[2]
+    {
+    \begin{block}{#1}
+        #2
+    \end{block}
+    }
+
+\newcommand{\oneColumn}[4]
+    {
+    \begin{columns}[c]
+        \begin{column}{#1\textwidth}
+        \end{column}
+        \begin{column}{#2\textwidth}
+             #4
+        \end{column}
+        \begin{column}{#3\textwidth}
+        \end{column}
+    \end{columns}
+    }
+
+\newcommand{\twoColumns}[4]
+    {
+    \begin{columns}[c]
+        \begin{column}{#1\textwidth}
+            #3
+        \end{column}
+        \begin{column}{#2\textwidth}
+             #4
+        \end{column}        
+    \end{columns}
+    }
+
+
+\newcommand{\myfigure}[1]
+  {
+  \begin{figure}
+    \center
+    \input{#1}
+  \end{figure}
+  }

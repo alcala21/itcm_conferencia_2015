@@ -6,14 +6,16 @@
      ☐ Título:
          "Análisis de Datos y Elaboración de Documentos con Herramientas de Código Abierto."
      ☐ Objetivo:
-         El objetivo del curso es enseñar de manera introductoria el uso de herramientas de código abierto para el análisis de datos y la generación de documentos, estáticos y dinámicos, para uso impreso y en la web. 
+         El objetivo del curso es enseñar de manera introductoria el uso de herramientas de código abierto para el análisis de datos y la generación de documentos, estáticos y dinámicos, para uso impreso y en la web.
 
      Contenido sintético:
 
       Día 1. Uso de LaTex para la elaboración de documentos:
        ☐ 1. Instalación de LaTeX.
        ☐ 2. Introducción a LaTeX.
-       ☐ 3. Elaboración de reportes 
+         Que es Latex?
+         Ventajas
+       ☐ 3. Elaboración de reportes
        ☐ 4. Elaboración de presentaciones con beamer
        ☐ 5. Elaboración de gráficos
        ☐ 6. Elaboración de exámenes
@@ -31,15 +33,15 @@
        ☐ 1. Introducción a RMarkdown
        ☐ 2. Elaboración de presentaciones con R y slidify
        ☐ 3. Introducción a knitr
-       ☐ 4. Elaboración de documentos dinámicos con R, knitr y Latex 
+       ☐ 4. Elaboración de documentos dinámicos con R, knitr y Latex
        ☐ 5. Elaboración de documentos dinámicos con R, knitr y RMarkdown
 
-     ☐ Duración: 
+     ☐ Duración:
            15 horas
 
  ☐ Podré estar los 3 dias?
         Sí
-  
+
  ☐ Fechas de vuelo
        Salida:       24 - Octubre - 2015
        Regreso:   1 - Noviembre - 2015
